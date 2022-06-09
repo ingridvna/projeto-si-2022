@@ -1,0 +1,14 @@
+C:\Workspace-Fatec\ProjetoBancoSolution\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.csproj.AssemblyReference.cache
+C:\Workspace-Fatec\ProjetoBancoSolution\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace-Fatec\ProjetoBancoSolution\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.AssemblyInfoInputs.cache
+C:\Workspace-Fatec\ProjetoBancoSolution\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.AssemblyInfo.cs
+C:\Workspace-Fatec\ProjetoBancoSolution\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.csproj.CoreCompileInputs.cache
+C:\Workspace-Fatec\ProjetoBancoSolution\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.exe
+C:\Workspace-Fatec\ProjetoBancoSolution\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.deps.json
+C:\Workspace-Fatec\ProjetoBancoSolution\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.runtimeconfig.json
+C:\Workspace-Fatec\ProjetoBancoSolution\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.runtimeconfig.dev.json
+C:\Workspace-Fatec\ProjetoBancoSolution\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.dll
+C:\Workspace-Fatec\ProjetoBancoSolution\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.pdb
+C:\Workspace-Fatec\ProjetoBancoSolution\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.dll
+C:\Workspace-Fatec\ProjetoBancoSolution\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.pdb
+C:\Workspace-Fatec\ProjetoBancoSolution\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.genruntimeconfig.cache
